@@ -10,7 +10,7 @@ echo 'xxxx.xxx.com' > CNAME
 
 git init
 git add -A
-git commit -m '自动推送'
+git commit -m '带萌新'
 
 # Github
-git push -f git@github.com:AdminHcat/MiniworldHack.git master:website
+git push -f git@github.com:AdminFunny/first.git master:website
